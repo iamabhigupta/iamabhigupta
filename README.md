@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Assam, India<br>✉️  You can contact me at abhishekgupta.july@gmail.com<br>🧠  I'm learning Next Js 14<br>🤝  I'm open to collaborating on Projects<br>⚡  My code has more comments than my social life. 😅
+🌍  I'm based in Assam, India<br>✉️  You can contact me at abhishekgupta.july@gmail.com<br>🧠  I'm learning Next Js 15<br>🤝  I'm open to collaborating on Projects<br>⚡  My code has more comments than my social life. 😅
 
 
 ## 🌐 Socials:
